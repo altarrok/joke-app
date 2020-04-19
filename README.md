@@ -1,2 +1,2 @@
 # joke-app
-A joke webapp written with Spring Boot
+A joke generator webapp written with Spring Boot
